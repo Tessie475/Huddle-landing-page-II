@@ -189,12 +189,12 @@ a{
         padding: 0;
 
     }
-    .services{
+    .offers{
         padding-left: 30px;
         padding-right: 30px;
         text-align: center;
     }
-    .service{
+    .offer{
         flex-direction: column-reverse;
         padding-right: 10px;
         padding-left: 10px;
@@ -204,7 +204,7 @@ a{
     .service-2{
         flex-direction: column-reverse;
     }
-    .service p{
+    .offer p{
         width: 100%;
         padding: 0;
         margin: auto;
